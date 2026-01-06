@@ -19,5 +19,10 @@ for(int i=1;i<=num;i++){
   cout<<fibo(i)<<" ";
 }
 
+cout<<"Sum of the fibonacci series = ";
+for(int i=1;i<=num;i++){
+sum+=fibo(i);
+}
+cout<<sum<<endl;
 return 0;
 }
