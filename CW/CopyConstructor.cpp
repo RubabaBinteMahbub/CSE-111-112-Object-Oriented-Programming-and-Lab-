@@ -10,6 +10,7 @@ class Points{
   x=x1;
   y=x2;
   }
+  //🎁
   Points(const Points &p1){
   x=p1.x;
   y=p1.y;
@@ -23,6 +24,7 @@ class Points{
 };
 int main(){
 Points p1(10,15);
+//🎁
 Points p2=p1;
 cout<<"p1.x = "<<p1.getX()<<" "<<"p1.y = "<<p1.getY()<<endl;
 cout<<"p2.x = "<<p2.getX()<<" "<<"p2.y = "<<p2.getY()<<endl;
