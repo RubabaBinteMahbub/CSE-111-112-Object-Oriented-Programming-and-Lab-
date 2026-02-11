@@ -42,3 +42,8 @@ int main(){
 
     return 0;
 }
+/*
+int m1[3]={30, 30,30};
+Student S1("Rubaba", 260, m1);
+S1.display();
+*/
