@@ -60,7 +60,9 @@ int main() {
         cout << "Enter HRA: ";
         cin >> hra;
 
-        emp[i] = new Employee(id, name, basic, da, hra);  // Constructor call
+        emp[i] = new Employee(id, name, basic, da, hra);
+        // Constructor call
+        // New dynamic memory allocator in C++
     }
 
     // Display all employees
