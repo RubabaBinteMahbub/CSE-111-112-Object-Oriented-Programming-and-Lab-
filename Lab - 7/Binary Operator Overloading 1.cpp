@@ -11,11 +11,6 @@ class Complex{
 private:
     int real, imag;
 public:
-    Complex(){
-    real=0;
-    imag=0;
-    }
-    
     Complex(int r=0, int i=0){
     real=r;
     imag=i;
