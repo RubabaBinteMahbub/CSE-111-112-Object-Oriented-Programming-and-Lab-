@@ -3,7 +3,7 @@ using namespace std;
 
 template<typename T>
 T getMin(T a, T b){
-  if(a<b) return b;
+  if(a>b) return b;
 }
 
 int main(){
