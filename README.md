@@ -36,3 +36,12 @@ This repository includes implementations of the following OOP concepts:<br>
 <br>
 <li><b>​Exception Handling:</b> Robust error management using try-catch blocks.</li>
 </ul>
+
+<h3>🛠 Setup & Usage</h3>
+<b>Compiler :</b> Use any standard C compiler (GCC, Clang, or IDEs like CodeBlocks/VS Code).
+
+<h3>🤝 Contribution</h3>
+​This is a personal learning repository. However, if you find any bugs feel free to open a Pull Request or an Issue.
+<br>
+
+ <i> <p align="center">If this helped you out or you liked my work, drop a ⭐!</p> </i>
