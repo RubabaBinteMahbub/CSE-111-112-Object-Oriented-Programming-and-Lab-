@@ -4,7 +4,7 @@
 
 <h3>​📌 Course Objectives</h3>
 ​The primary goal of these courses is to master the core principles of Object-Oriented Programming (OOP) and apply them to solve real-world problems.
-<br>
+<br><br>
 <b>Key concepts include:</b>
 <ul>
 ​<li>Encapsulation</li>
@@ -19,14 +19,14 @@
 
 <h3>​​📚 Topics Covered</h3>
 
-This repositoryry includes implementations of the following OOP concepts:<br>
+This repository includes implementations of the following OOP concepts:<br>
 
 <ul>
 <li><b>Classeses and Objects:</b> Understanding class structures and objecinstantiationon.</li>
 <br>
-<li><b>Constructorsrs : </b> Defaultl, parameterizededandncopypy constructors.</li>
+<li><b>Constructorsrs : </b> Defaultl, parameterized and copy constructors.</li>
 <br>
-<li><b>Encapsulationon : </b> Protectingng data using private fields and getter-setter methods.</li>
+<li><b>Encapsulationon : </b> Protecting data using private fields and getter-setter methods.</li>
 <br>
 <li><b>Inheritancece : </b> Single, multi-level, and hierarchical inheritance models.</li>
 <br>
